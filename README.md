@@ -1,3 +1,3 @@
 # Backend MERN - Calendar
 
-Backend creado con node.js y express
+Backend creado con node.js, express y express validator
